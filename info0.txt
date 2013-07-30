@@ -1,0 +1,6 @@
+Organism: Plant
+Organism: Rabbit
+Organism: Wolf
+Plants use the sunlight to create energy in a process called photosynthesis.  In this ecosystem, plants are eaten by bunnies.
+Rabbits are herbivores; they get their energy by feeding on leafy green plants.  Their predators include mammels such as foxes, badgers, and wolves.
+Wolves don't have any natural predators in this ecosystem.  They get their energy primarily from smaller mammels such as rabbits (though when hunting in a pack can prey on organisms as big as moose!)

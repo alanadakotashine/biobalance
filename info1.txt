@@ -1,0 +1,8 @@
+Organism: Phytoplankton
+Organism: Jellyfish
+Organism: Tuna
+Organism: Sharks
+Phytoplankton are microscopic plants that live in the ocean.  They create energy from sunlight using photosynthesis.  Phytoplankton are vital to the ocean ecosystem; they feed all kinds of organisms, including rotifers (microscopic animals), molluscs, clams, and jellyfish.
+Jellyfish, the oldest multi-organ animal, are organisms that feed on phytoplankton (as well as anything else that get caught in their tentacles!).  Their name is somewhat of a misnomer, as they aren't fish at all, but are in the phylum Cnidaria.  Their major predators include Tuna, swordfish, moonfish, and sea turtles.
+Tuna are fish that feed on jellyfish, as well as smaller fish, squid, and crustaceans.  Their natural predators include sharks and orcas.
+Sharks are fish that feed on large fish such as tuna.  Although they can be killed by whales, they're for the most part--and in this model--considered to be at the top of the food chain.
